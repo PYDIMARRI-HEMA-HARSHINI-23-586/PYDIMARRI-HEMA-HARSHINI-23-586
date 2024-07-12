@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PYDIMARRI-HEMA-HARSHINI-23-586
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning PYTHON on udemy
+- 🌱 I’m currently learning PYTHON, WEB Dev on udemy
 - 💞️ I’m looking to collaborate on projects regarding python
 - 📫 How to reach me : hemapydimarri@gmail.com
 - 😄 Pronouns: She/Her
