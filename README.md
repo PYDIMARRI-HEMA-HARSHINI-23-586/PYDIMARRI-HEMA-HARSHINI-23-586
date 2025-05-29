@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PYDIMARRI-HEMA-HARSHINI-23-586
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m a life long learner.
-- 💞️ I’m looking to collaborate on projects of web and app development.
+- 💞️ I'm looking to collaborate on projects involving cutting-edge technologies.
 - 📫 How to reach me : hemapydimarri@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Programmers don't sleep—they just crash like their apps.
