@@ -17,11 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [https://bitmanipulationsecret.blogspot.com/](https://bitmanipulationsecret.blogspot.com/)
-
 - 📫 How to reach me **hemapydimarri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1otCjxIIclLOx_Jt052WejQJoVvwQPSgH/view?usp=sharing](https://drive.google.com/file/d/1otCjxIIclLOx_Jt052WejQJoVvwQPSgH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14chWV87YSswNR7Tsxvm9zyrEEgPCyWWe/view?usp=sharing)
 
 - ⚡ Fun fact **Programmers don't sleep—they just crash like their apps.**
 
