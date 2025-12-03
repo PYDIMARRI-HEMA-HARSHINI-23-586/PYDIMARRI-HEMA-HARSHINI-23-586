@@ -34,5 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PYDIMARRI-HEMA-HARSHINI-23-586&theme=blue_green)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydimarri-hema-harshini-23-586&show_icons=true&locale=en&layout=compact" alt="pydimarri-hema-harshini-23-586" /></p>
 
