@@ -57,22 +57,11 @@ Student community platform built with **Elixir, Phoenix and PostgreSQL**, featur
 * 🌐 **GSSoC 2026 Contributor**
 * ☁️ **AWS AI & ML Scholars 2025**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemaharshini-dev&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemaharshini-dev&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
 
 ### 🧠 Currently Learning
 
 ```text
 AI Agents        ███████████████░░░
-Generative AI    ██████████████░░░░
 DSA              ███████████████░░░
 ```
 
